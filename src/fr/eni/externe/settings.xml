@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+ <comment>Ceci est un commentaire</comment>
+ <entry key="cle1">Bonjour tout le monde!</entry>
+ <entry key="autre">hello Everybody!</entry>
+</properties>
